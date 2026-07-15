@@ -44,4 +44,5 @@ Para ejecutar el experimento desde cero, sigue estos pasos:
 
  Autor
 Luis Duvan Torrado Mora Universidad Francisco de Paula Santander Ocaña, Colombia
+Correo: torradoduban.18@gmail.com
 
