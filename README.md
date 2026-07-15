@@ -1,5 +1,7 @@
 # Traductor de Lengua de Señas Colombiano (LSC) a Texto y Voz
 
+#Implementación y Evaluación de Redes de Transformer Para el Reconocimiento de Lenguaje de Señas Colombiano Aplicado a la Base de Datos del INSOR
+
 Este proyecto es parte del Trabajo Fin de Máster (TFM) en Inteligencia Artificial. El sistema implementa y evalúa arquitecturas de redes neuronales para la traducción de señas de la LSC, comparando el rendimiento entre modelos basados en **Transformers**, **CNN** y **LSTM**.
 
 ##  Estructura del Repositorio
