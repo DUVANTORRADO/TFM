@@ -34,13 +34,13 @@ pip install -r requirements.txt
  Flujo de Trabajo
 Para ejecutar el experimento desde cero, sigue estos pasos:
 
-Captura: python src/capture_samples.py
+1. Captura: python src/capture_samples.py
 
-Keypoints: python src/create_keypoints.py
+2. Keypoints: python src/create_keypoints.py
 
-Entrenamiento: python src/training_model.py
+3. Entrenamiento: python src/training_model.py
 
-Evaluación: python src/evaluate_model.py
+4. Evaluación: python src/evaluate_model.py
 
  Autor
 Luis Duvan Torrado Mora Universidad Francisco de Paula Santander Ocaña, Colombia
