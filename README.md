@@ -27,6 +27,7 @@ Para garantizar la reproducibilidad fiel de los experimentos, hemos fijado las v
    
 Instala las librerías con las versiones especificadas:
 
+Bash
 pip install -r requirements.txt
  Flujo de Trabajo
 Para ejecutar el experimento desde cero, sigue estos pasos:
@@ -40,8 +41,5 @@ Entrenamiento: python src/training_model.py
 Evaluación: python src/evaluate_model.py
 
  Autor
-Luis Duvan Torrado Mora, Universidad Francisco de Paula Santander Ocaña, Colombia
-
-
-
+Luis Duvan Torrado Mora Universidad Francisco de Paula Santander Ocaña
 
