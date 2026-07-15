@@ -24,9 +24,9 @@ Para garantizar la reproducibilidad fiel de los experimentos, hemos fijado las v
    ```bash
    git clone [https://github.com/DUVANTORRADO/TFM.git](https://github.com/DUVANTORRADO/TFM.git)
    cd TFM
+   
 Instala las librerías con las versiones especificadas:
 
-Bash
 pip install -r requirements.txt
  Flujo de Trabajo
 Para ejecutar el experimento desde cero, sigue estos pasos:
