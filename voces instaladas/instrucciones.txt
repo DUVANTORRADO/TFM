@@ -1,0 +1,5 @@
+cuando el software presente problemas al traducir con voz de hombre, ejecutar culquiera de las 2 voces
+luego de ejecutarlas y aagregarlas al sistema ejecutamos el archivo python import pyttsx3
+ahi se mostrarar las voces instaladas con el ID correspondiente que luego meteremos en el archivo python text_to_speech
+
+el ID de cada voz va dentro de los corchetes para seleccionar el tipo de voz
