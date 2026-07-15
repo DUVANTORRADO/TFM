@@ -2,7 +2,7 @@
 
 Este proyecto es parte del Trabajo Fin de Máster (TFM) en Inteligencia Artificial. El sistema implementa y evalúa arquitecturas de redes neuronales para la traducción de señas de la LSC, comparando el rendimiento entre modelos basados en **Transformers**, **CNN** y **LSTM**.
 
-## 🏗️ Estructura del Repositorio
+##  Estructura del Repositorio
 Para facilitar la lectura y el mantenimiento, el proyecto está organizado de la siguiente manera:
 
 - `src/`: Scripts principales de ejecución.
@@ -15,7 +15,7 @@ Para facilitar la lectura y el mantenimiento, el proyecto está organizado de la
 - `outputs/`: Resultados, historial de traducciones y logs.
 - `img/`: Recursos visuales del proyecto.
 
-## 🚀 Instalación y Reproducibilidad
+## Instalación y Reproducibilidad
 Para garantizar la reproducibilidad fiel de los experimentos, hemos fijado las versiones exactas de todas las dependencias.
 
 1. Clona este repositorio:
@@ -26,7 +26,7 @@ Instala las librerías con las versiones especificadas:
 
 Bash
 pip install -r requirements.txt
-🛠️ Flujo de Trabajo
+ Flujo de Trabajo
 Para ejecutar el experimento desde cero, sigue estos pasos:
 
 Captura: python src/capture_samples.py
@@ -37,7 +37,7 @@ Entrenamiento: python src/training_model.py
 
 Evaluación: python src/evaluate_model.py
 
-👤 Autor
+ Autor
 Luis Duvan Torrado Mora, Universidad Francisco de Paula Santander Ocaña, Colombia
 
 
