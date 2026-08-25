@@ -1,0 +1,7 @@
+.vscode
+.test
+__pycache__
+
+# samples
+frame_actions
+videos
