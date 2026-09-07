@@ -2,6 +2,16 @@ El presente trabajo se desarrolla en el marco del Máster Universitario en Intel
 
 Este es un modelo de una red neuronal que traduce Lengua de Señas Colombiano (LSC) a texto (y voz). Utilicé MediaPipe para obtener los puntos de la seña y para el entrenamiento usé TensorFlow y Keras.
 
+## Datos
+
+El corpus utilizado es el Diccionario Básico del Lenguaje de Señas Colombiano del INSOR (2015). Los videos originales no se incluyen por razones de licencia. https://educativo.insor.gov.co/materias/glosario-lenguaje/
+
+Para reproducir el experimento:
+
+1.  Obtén los videos del INSOR.
+2.  Colócalos en `data/videos/` con la estructura: `data/videos/[categoria]/[palabra].mp4`.
+3.  Ejecuta `create_keypoints.py` para generar los archivos `.h5` en `data/keypoints/`.
+
 ## Requisitos previos
 
 *   **Python 3.9** (recomendado). El proyecto ha sido probado y funciona correctamente con esta versión.
